@@ -4,7 +4,7 @@ from pymongo import MongoClient
 import json
 import os
 
-client = MongoClient("mongodb+srv://polya:tollea1324@cluster0.qhkasr9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+
 db = client.get_database('yoyak')
 
 file_path = "./medicine"
