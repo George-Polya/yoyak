@@ -181,5 +181,12 @@
 
 | 김희수            | 신성현   | 이혜진   | 김성현  | 오지훈  | 유지원  |
 | ----------------- | -------- | -------- | ------- | ------- | ------- |
-| <img src="https://yoyak.s3.ap-northeast-2.amazonaws.com/hello/1.png" width="100" style="border-radius: 45%;" > |<img src="https://yoyak.s3.ap-northeast-2.amazonaws.com/hello/2.png" width="100"  style="border-radius: 45%;"  >  | <img src="https://yoyak.s3.ap-northeast-2.amazonaws.com/hello/3.png" width="100"  style="border-radius: 45%;" > | <img src="https://yoyak.s3.ap-northeast-2.amazonaws.com/hello/4.png" width="100"  style="border-radius: 45%;" > | <img src="https://yoyak.s3.ap-northeast-2.amazonaws.com/hello/5.png" width="100" style="border-radius: 45%;">   | <img src="https://yoyak.s3.ap-northeast-2.amazonaws.com/hello/6.png" width="100" style="border-radius: 45%;">  |
+| 
 | Leader & Backend | Backend | Backend | Frontend | Frontend | Frontend |
+
+
+# 시연 시나리오
+[시연시나리오.pdf](./exec/시연시나리오.pdf)
+
+# 발표자료
+[발표자료.pdf](./exec/10기_특화PJT_발표자료_B102.pdf)
